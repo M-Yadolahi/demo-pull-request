@@ -3,3 +3,4 @@ Version 1.0
 This change was added via a Pull Request.
 ok now i want to test sqash.... 
 i will make several commits 
+my second commit befor pull request
